@@ -1,0 +1,1 @@
+C:\Windows\System32\cmd.exe /c "SET GIN_MODE=debug&& SET PORT=8080&& START splice_mood_client_windows.exe
